@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace ChallengesWithTestsMark8
 {
     public class ChallengesSet01
@@ -43,13 +44,24 @@ namespace ChallengesWithTestsMark8
 
         public string GetGreeting(string nameOfPerson)
         {
-            return nameOfPerson;
-             
+           
+            if (nameOfPerson == "")
+            {
+                return "Hello!";
+            }
+            else
+            {
+                return $"Hello, {nameOfPerson}!";
+            }
+            //return String.IsNullOrEmpty(nameOfPerson) ? "Hello!" : $"Hello, {nameOfPerson}!";
+
+                      
         }
 
         public string GetHey()
         {
-            return "Hey";
+            
+            return "HEY!";
         }
     }
 }

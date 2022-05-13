@@ -11,3 +11,17 @@
 /Users/michaeldoyle/repos/mark18/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.dll
 /Users/michaeldoyle/repos/mark18/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.pdb
 /Users/michaeldoyle/repos/mark18/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.genruntimeconfig.cache
+F:\Repos\Weekly_Challenges\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.exe
+F:\Repos\Weekly_Challenges\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.deps.json
+F:\Repos\Weekly_Challenges\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.runtimeconfig.json
+F:\Repos\Weekly_Challenges\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.runtimeconfig.dev.json
+F:\Repos\Weekly_Challenges\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.dll
+F:\Repos\Weekly_Challenges\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.pdb
+F:\Repos\Weekly_Challenges\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.csproj.AssemblyReference.cache
+F:\Repos\Weekly_Challenges\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\Weekly_Challenges\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+F:\Repos\Weekly_Challenges\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.AssemblyInfo.cs
+F:\Repos\Weekly_Challenges\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+F:\Repos\Weekly_Challenges\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.dll
+F:\Repos\Weekly_Challenges\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.pdb
+F:\Repos\Weekly_Challenges\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.genruntimeconfig.cache
