@@ -40,7 +40,7 @@ namespace ChallengesWithTestsMark8
                 return true;
             }
                 return false;
-            
+            // return number % 2 == 0;
         }
 
         public bool IsNumberOdd(int num)
@@ -50,6 +50,7 @@ namespace ChallengesWithTestsMark8
                 return true ;
             }
             return false ;
+            //return num % 2 != 0
         }
 
         public double SumOfMinAndMax(IEnumerable<double> numbers)
@@ -66,7 +67,7 @@ namespace ChallengesWithTestsMark8
 
             return numbers.Min() + numbers.Max();
 
-
+             
         }
 
         public int GetLengthOfShortestString(string str1, string str2)
